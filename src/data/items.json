@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Creamsicle",
+      "price": 10.99,
+      "imgUrl": "/imgs/f1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Multipack",
+      "price": 1199,
+      "imgUrl": "/imgs/f2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Stylish Model",
+      "price": 14000,
+      "imgUrl": "/imgs/f3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Extra Smol",
+      "price": 1.05,
+      "imgUrl": "/imgs/f4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "designer jumpers",
+      "price": 1199,
+      "imgUrl": "/imgs/img-4.png"
+    },
+    {
+      "id": 6,
+      "name": "collarless shirts",
+      "price": 1199,
+      "imgUrl": "/imgs/n8.jpg"
+    }
+  ]
