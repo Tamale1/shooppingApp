@@ -30,7 +30,7 @@ style ={{objectFit: 'cover'}}/>
             </div>
             <Button onClick={()=>increaseCartQuantity(id)}>+</Button>
         </div>
-        <Button variant="danger size-sm" onClick={()=>removeFromCart(id)}>Remove</Button>
+        <Button variant="danger size-sm" onClick={ ()=>removeFromCart(id)}>Remove</Button>
         </div>
     )}
     </div>
